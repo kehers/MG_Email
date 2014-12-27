@@ -1,6 +1,6 @@
 # MG_Email
 
-Quick class to validate email using mailgun's API.
+Quick class to validate email using mailgun's API (http://documentation.mailgun.com/api-email-validation.html).
 
 ```php
 <?php
